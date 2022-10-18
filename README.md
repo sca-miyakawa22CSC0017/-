@@ -9,8 +9,7 @@ using std::endl;
 using std::string;
 
 int main() {
-  const int GOLD_PIECES = 900;
-  string leader;
+
   
   //情報を取得する
   cout << "今から冒険へ出かけましょう！\n\n";
