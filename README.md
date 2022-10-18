@@ -11,7 +11,7 @@ using std::string;
 int main() {
   const int GOLD_PIECES = 900;
   string leader;
-  int adventures, killed, survivors;
+  
   //情報を取得する
   cout << "今から冒険へ出かけましょう！\n\n";
   cout << "パスワードを入力してください\n";
